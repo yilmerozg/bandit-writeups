@@ -8,12 +8,12 @@ OverTheWire Bandit wargame solutions and learning notes.
 - [x] Level 2 — Spaces in filename
 - [x] Level 3 — Hidden files
 - [x] Level 4 — File types
-- [x] Level 5
-- [x] Level 6
-...
-
+- [x] Level 5 - File properties (find)
+- [x] Level 6 — Server-wide search
+- [x] Level 7 — grep command
 ## Skills Learned
 - SSH connection
 - Linux file commands (ls, cat, file)
 - Hidden files
 - Special filename handling
+- grep (search in files)
