@@ -13,6 +13,7 @@ OverTheWire Bandit wargame solutions and learning notes.
 - [x] Level 7 — grep command
 - [x] Level 8 — sort and uniq
 - [x] Level 9 — strings and grep
+- [x] Level 10 — base64 decode
 ## Skills Learned
 - SSH connection
 - Linux file commands (ls, cat, file)
@@ -22,3 +23,4 @@ OverTheWire Bandit wargame solutions and learning notes.
 - sort and uniq (find unique lines)
 - pipe | (chain commands)
 - strings (extract readable text from binary)
+- base64 (decode encoded data)
