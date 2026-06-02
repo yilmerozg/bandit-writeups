@@ -8,8 +8,8 @@ OverTheWire Bandit wargame solutions and learning notes.
 - [x] Level 2 — Spaces in filename
 - [x] Level 3 — Hidden files
 - [x] Level 4 — File types
-- [ ] Level 5
-- [ ] Level 6
+- [x] Level 5
+- [x] Level 6
 ...
 
 ## Skills Learned
