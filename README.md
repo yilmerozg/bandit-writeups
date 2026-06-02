@@ -15,6 +15,7 @@ OverTheWire Bandit wargame solutions and learning notes.
 - [x] Level 9 — strings and grep
 - [x] Level 10 — base64 decode
 - [x] Level 11 — ROT13 and tr command
+- [x] Level 12 — hexdump and compression layers
 ## Skills Learned
 - SSH connection
 - Linux file commands (ls, cat, file)
@@ -26,3 +27,5 @@ OverTheWire Bandit wargame solutions and learning notes.
 - strings (extract readable text from binary)
 - base64 (decode encoded data)
 - tr (character translation, ROT13)
+- xxd (hexdump to binary)
+- gzip, bzip2, tar (compression tools)
