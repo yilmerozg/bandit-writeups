@@ -12,6 +12,7 @@ OverTheWire Bandit wargame solutions and learning notes.
 - [x] Level 6 — Server-wide search
 - [x] Level 7 — grep command
 - [x] Level 8 — sort and uniq
+- [x] Level 9 — strings and grep
 ## Skills Learned
 - SSH connection
 - Linux file commands (ls, cat, file)
@@ -20,3 +21,4 @@ OverTheWire Bandit wargame solutions and learning notes.
 - grep (search in files)
 - sort and uniq (find unique lines)
 - pipe | (chain commands)
+- strings (extract readable text from binary)
