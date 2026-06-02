@@ -11,9 +11,12 @@ OverTheWire Bandit wargame solutions and learning notes.
 - [x] Level 5 - File properties (find)
 - [x] Level 6 — Server-wide search
 - [x] Level 7 — grep command
+- [x] Level 8 — sort and uniq
 ## Skills Learned
 - SSH connection
 - Linux file commands (ls, cat, file)
 - Hidden files
 - Special filename handling
 - grep (search in files)
+- sort and uniq (find unique lines)
+- pipe | (chain commands)
