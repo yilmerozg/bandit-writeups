@@ -21,6 +21,7 @@ OverTheWire Bandit wargame solutions and learning notes.
 - [x] Level 15 — SSL/TLS with openssl
 - [x] Level 16 — nmap port scanning
 - [x] Level 17 — diff command
+- [x] Level 18 — bashrc persistence
 ## Skills Learned
 - SSH connection
 - Linux file commands (ls, cat, file)
@@ -39,3 +40,5 @@ OverTheWire Bandit wargame solutions and learning notes.
 - openssl s_client (SSL/TLS encrypted connections)
 - nmap (port scanning)
 - diff (compare files)
+- SSH command execution (without shell)
+- bashrc persistence technique
