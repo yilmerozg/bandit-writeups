@@ -29,3 +29,5 @@ OverTheWire Bandit wargame solutions and learning notes.
 - tr (character translation, ROT13)
 - xxd (hexdump to binary)
 - gzip, bzip2, tar (compression tools)
+- nc/netcat (send data over network)
+- SSH private key authentication
