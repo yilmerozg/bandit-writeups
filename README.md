@@ -16,6 +16,9 @@ OverTheWire Bandit wargame solutions and learning notes.
 - [x] Level 10 — base64 decode
 - [x] Level 11 — ROT13 and tr command
 - [x] Level 12 — hexdump and compression layers
+- [x] Level 13 — SSH private key
+- [x] Level 14 — netcat (nc)
+- [x] Level 15 — SSL/TLS with openssl
 ## Skills Learned
 - SSH connection
 - Linux file commands (ls, cat, file)
@@ -31,3 +34,4 @@ OverTheWire Bandit wargame solutions and learning notes.
 - gzip, bzip2, tar (compression tools)
 - nc/netcat (send data over network)
 - SSH private key authentication
+- openssl s_client (SSL/TLS encrypted connections)
