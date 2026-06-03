@@ -19,6 +19,8 @@ OverTheWire Bandit wargame solutions and learning notes.
 - [x] Level 13 — SSH private key
 - [x] Level 14 — netcat (nc)
 - [x] Level 15 — SSL/TLS with openssl
+- [x] Level 16 — nmap port scanning
+- [x] Level 17 — diff command
 ## Skills Learned
 - SSH connection
 - Linux file commands (ls, cat, file)
@@ -35,3 +37,5 @@ OverTheWire Bandit wargame solutions and learning notes.
 - nc/netcat (send data over network)
 - SSH private key authentication
 - openssl s_client (SSL/TLS encrypted connections)
+- nmap (port scanning)
+- diff (compare files)
