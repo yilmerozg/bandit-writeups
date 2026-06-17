@@ -23,6 +23,7 @@ OverTheWire Bandit wargame solutions and learning notes.
 - [x] Level 17 — diff command
 - [x] Level 18 — bashrc persistence
 - [x] Level 19 — setuid binary / privilege escalation
+- [x] Level 20 — client-server with nc and setuid binary
 ## Skills Learned
 - SSH connection
 - Linux file commands (ls, cat, file)
@@ -44,3 +45,4 @@ OverTheWire Bandit wargame solutions and learning notes.
 - SSH command execution (without shell)
 - bashrc persistence technique
 - setuid binary (privilege escalation technique)
+- client-server communication with nc
